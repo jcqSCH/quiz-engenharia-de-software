@@ -4,4 +4,4 @@
 
 - A aplicação exibe a quantidade de acertos e erros dos participantes, apontando quais questões foram as respondidas corretamente e quais foram respondadidas incorretamente.
 
-- É possível baixar a aplicação e rodar o arquivo `index.html` diretamente no browser sem a necessidade de dependências especiais.
+- É possível baixar a aplicação e rodar o arquivo `index.html` diretamente no browser, sem a necessidade de dependências especiais.
